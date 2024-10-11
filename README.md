@@ -8,8 +8,7 @@ You can view the interactive [Traffic Incident Analysis Dashboard](https://publi
 
 ## Traffic Incident Analysis
 
-This project analyzes real-time traffic incidents to visu![Uploading Austin Traffic Incident Heatmap and Analysis.png…]()
-alize key patterns and trends, including geographic hotspots and incident types. 
+This project analyzes real-time traffic incidents to visualize key patterns and trends, including geographic hotspots and incident types. 
 
 ## Project Components
 - **Python Code**: Data cleaning and preprocessing using Python (`pandas`).
