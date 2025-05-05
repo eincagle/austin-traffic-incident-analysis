@@ -10,6 +10,35 @@ You can view the interactive [Traffic Incident Analysis Dashboard](https://publi
 
 This project analyzes real-time traffic incidents to visualize key patterns and trends, including geographic hotspots and incident types. 
 
+## Key Insights
+
+**1. Most Common Days for Incidents**  
+- Fridays reported the most incidents (**5,694**), followed by Thursdays and Wednesdays.  
+- This suggests a weekday rush-hour traffic pattern.
+
+**2. Peak Incident Hour**  
+- The highest frequency of incidents occurs at **10 PM (22:00)**.  
+- May indicate increased late-night hazards or lower visibility issues.
+
+**3. Top Locations for Incidents**  
+- Most incidents occurred near these coordinates:  
+  - POINT (-97.611818 30.256997): 49 incidents  
+  - POINT (-97.648566 30.386857): 42 incidents  
+- Can be mapped to identify and address local traffic hotspots.
+
+**4. Most Reported Issues**  
+- Top 3 traffic issues:  
+  - Traffic Hazard: 9,798  
+  - Crash Urgent: 9,575  
+  - Collision: 4,626  
+- Shows critical areas for safety and maintenance intervention.
+
+**5. Busiest Months**  
+- Peak months for incident reporting:  
+  - May (4,761), August (4,468), April (4,409)  
+- Suggests seasonal surges, potentially useful for staffing or awareness campaigns.
+
+
 ## Project Components
 - **Python Code**: Data cleaning and preprocessing using Python (`pandas`).
 - **Cleaned Data**: CSV file containing the cleaned data.
